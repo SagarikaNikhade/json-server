@@ -1,0 +1,324 @@
+{
+    "plants": [
+      {
+        "id":1,
+        "title": "Anthurium (Pink) - Plant",
+        "price": 999,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-anthurium-andreanum-princess-amalia-elegance-plant_600x600.jpg?v=1634213376",
+        "rating": "7.8",
+        "category":"plant",
+        
+          "info":"If you have space to spare, make an impressive display in your living room with a great eye-catcher Anthurium plant.",
+          "common":"Tailflower, flamingo flower and laceleaf.",
+          "height":"Up to 50 centimeter",
+          "fcolor":"Pink",
+          "bloom":"Year Round",
+          "level":"Medium"
+        
+      },
+      {
+        "id": 2,
+        "title": "Parijat Tree, Parijatak, Night Flowering Jasmine - Plant",
+        "price": 399,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plants-parijat-tree-parijatak-night-flowering-jasmine-plant-16969158688908_600x600.jpg?v=1634225455",
+        "rating": "5.5",
+        "category":"plant",
+        
+          "info":"Parijat is one of the beautiful and mysterious plants whose flowers fall on the ground after blooming. The flowers bloom at night and drop down from the branches at the first rays of light. These fragrant flowers spread fragrance in the surrounding area with an intensely sweet floral aroma.",
+          "common":"Parijat, Paarijaata, Night-flowering Jasmine, Coral Jasmine",
+          "height":"Up to 10 meters",
+          "fcolor":"White.",
+          "bloom":"August to December.",
+          "level":"Easy."
+        
+      },
+      {
+        "id": 3,
+        "title": "Radish Red Round - Desi Vegetable Seeds",
+        "price": 27,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-radish-red-round-desi-vegetable-seeds-16969238020236_600x600.jpg?v=1634204738",
+        "rating": "3.4",
+        "category":"seed",
+        
+          "info":"Other than commonly known radishes, many different varieties exist. This Radish packet contains approximately 35 seeds.The radish (Raphanus sativus) is an edible root vegetable. Roots flesh is crispy with mild pungency.Roots are pure white in color. The shape is long, cylindrical. It is grown as a summer and monsoon crop from April September.Root length is 30 to 35 cm",
+          "common":"Radish pusa chetki, Mooli",
+          "height":"Up to 10 inches",
+          "fcolor":"red",
+          "bloom":"Spring and the fall",
+          "level":"Easy to grow"
+        
+      },
+      {
+        "id": 4,
+        "title": "Rajnigandha, Tuberose - Bulbs (set of 10)",
+        "price": 199,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-g-rajnigandha-tuberose-bulbs-set-of-10-280288_600x600.jpg?v=1679750991",
+        "rating": "4.5",
+        "category":"bulb",
+        
+          "info":"Growing Rajnigandha Bulbs is an easy task, it is an easy-care flower which does not require special expertise to grow it as house flower plant. The tuberose is a night-blooming plant.Polianthes tuberosa, the tuberose, is a perennial plant related to the agaves, extracts of which are used as a note in perfumery. Polianthes Tuberosa (Rajnigandha), the tuberose is a perennial flowering plant (A perennial plant is a plant that lives for more than two years).It grows in elongated spikes up to 18 inches long that produce clusters of fragrant waxy white flowers that bloom from the bottom towards the top of the spike. It has long, bright green leaves clustered at the base of the plant and smaller, clasping leaves along the stem.",
+          "common":"Mexican tuberose, Tuberose, Rajanigandha",
+          "height":"2 to 3 feet",
+          "fcolor":"White",
+          "bloom":"Summer, Autumn",
+          "level":"Easy to grow"
+      
+      },
+      {
+        "id": 5,
+        "title": "Zephyranthes Lily, Rain Lily (Yellow) - Bulbs (set of 10)",
+        "price": 159,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-bulbs-zephyranthes-rain-lily-yellow-flower-bulbs_600x600.jpg?v=1634231936",
+        "rating": "4.5",
+        "category":"bulb",
+        
+          "info":"Zephyranthes can be deciduous or evergreen bulbous perennials, with linear leaves and funnel-shaped or crocus-like flowers in spring, summer or autumn.Leaves are a deep glossy green and measure 3 mm wide. Flowers, which at first resemble a new leaf, but emerge from their papery sheaves to a stunning whiteness; they are erect in perianth.",
+          "common":"Rain lily, Autumn zephyr lily, Peruvian swamp lily",
+          "height":"Up to 20 cm",
+          "fcolor":"Yellow",
+          "bloom":"After fall",
+          "level":"Easy to grow"
+      
+      },
+      {
+        "id": 6,
+        "title": "Anemone The Admiral (Pink) - Bulbs (set of 5)",
+        "price": 259,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-bulbs-anemone-the-admiral-pink-bulbs-16968593178764_600x600.jpg?v=1634213740",
+        "rating": "4.5",
+        "category":"bulb",
+        
+          "info":"Anemone flower can beautify every place with its simplicity and beautiful scent.Anemone is perennial flowering plant that have basal leaves with long leaf-stems that can be upright or prostrate. Anemone flower is a plant that can be increasingly found in gardens and terraces. This beautiful flower can beautify every place with its simplicity and beautiful scent.Besides being the most common gift to give to someone, flowers are also beautiful decoration and important ingredients of perfumes and many other things that make our lives more beautiful.",
+          "common":"Anemone or Windflowers",
+          "height":"Up to 2 to 3 feet",
+          "fcolor":"Random color",
+          "bloom":"Spring",
+          "level":"Easy to grow"
+       
+      },
+      {
+        "id": 7,
+        "title": "Curry Leaves, Kadi Patta, Murraya koenigii, Meetha Neem - Plant",
+        "price": 359,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-g-curry-leaves-kadi-patta-murraya-koenigii-meetha-neem-plant_600x600.jpg?v=1634218014",
+        "rating": "5.5",
+        "category":"plant",
+        
+          "info":"Murraya koenigii is a most attractive, small evergreen tree with wonderfully sweet, curry-pungent foliage. Murraya koenigii well known for their aromatic and distinctive flavour and medicinal properties.",
+          "common":"Curry Leaves, Kadi Patta, Meetha Neem, Murraya koenigii",
+          "height":"2.00 to 6.00 Metres",
+          "fcolor":"White",
+          "bloom":"February-April",
+          "level":"Easy to grow"
+        
+      },
+      {
+        "id": 8,
+        "title": "Tomato Roma VF - Heirloom Vegetable Seeds",
+        "price": 57,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-tomato-roma-vf-heirloom-vegetable-seeds-16969125036172_600x600.jpg?v=1634205191",
+        "rating": "5.9",
+        "category":"seed",
+        
+          "info":"1 packet contains Tomato Roma VF - Seeds - 50 seeds.The most popular garden vegetable crop, tomatoes come in a wide range of sizes, shapes and colo Choose determinate varieties for early harvest or cool conditions. Compact varieties are also good choices for containers and planting in flower beds.Tomatoes are an incredibly versatile food.They are often considered as a vegetable, though ideally they are a citrus fruit. They are a rich source of Vitamin C and help in increasing your immunity. Not just this, tomatoes also provide several other vitamins, magnesium, phosphorus and copper, all of which are necessary for good health.The best part is that they can be eaten either raw, in salads, sandwiches or in vegetables.",
+          "common":"Tomato,Botanical name: Solanum lycopersicum",
+          "height":" determinate 3-4, indeterminate 7-15 Width 24-36",
+          "fcolor":"Yellow",
+          "bloom":"Year round",
+          "level":"Moderately difficult"
+        
+      },
+      {
+        "id": 9,
+        "title": "Kagzi Nimboo, Lemon Tree - Plant",
+        "price": 599,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plants-kagzi-nimboo-lemon-tree-plant-16968973811852_600x600.jpg?v=1634222733",
+        "rating": "6.6",
+        "category":"plant",
+        
+          "info":"Kagzi Lime is popular for its beautiful appearance and pleasing flavour and for its excellent food qualities.",
+          "common":"Citrus Limonum, limbu.",
+          "height":"up to 2.4 mete",
+          "fcolor":"White.",
+          "bloom":"January to February, May to June and October",
+          "level":"Easy to grow."
+        
+      },
+      {
+        "id": 10,
+        "title": "Calendula Bon Bon Orange - Flower Seeds",
+        "price": 79,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-calendula-bon-bon-orange-flower-seeds-16969061892236_600x600.jpg?v=1634203298",
+        "rating": "7.9",
+        "category":"seed",
+        
+          "info":"Calendula Bon Bon Orange - Seeds ,1 packet contains 50 Seeds of Calendula Calendula, s vivid orange or yellow flowers provide not only a splash of color to the garden, but add zest to salads and similar dishes as well. Calendula is exceptionally tolerant of cold weather in fall, and has long been grown as a pot herb for its edible flowe",
+          "common":"Pot Marigold, English Marigold, Poet s Marigold",
+          "height":"12 - 24",
+          "fcolor":"Orange",
+          "bloom":"Mid Spring - Mid Fall",
+          "level":"Easy"
+       
+      },
+      {
+        "id":11 ,
+        "title": "Cassia Marginata, Rose Shower - 0.5 kg Seeds",
+        "price": 419,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-cassia-marginata-rose-shower-0-5-kg-seeds-16968694956172_600x600.jpg?v=1634215611",
+        "rating": "4.9",
+        "category":"seed",
+        
+          "info":"The Cassias, with their lovely cool shades of pinks, green line the boulevards of many tropical cities; and when you see one in full flower for the first time, you have to ask, How hardy is a cassia tree and can I take one home?.The Cassia has few distinguishing features can be observed with little trouble. It is slightly smaller, but has the same spreading crown, long drooping branches and numerous, feathery leaves, but the branches are rough. The flowers are similar but the sepals are smooth, green inside and deep-red underneath.",
+          "common":"Apple Blossom",
+          "height":"20 to 30 feet",
+          "fcolor":"Pink",
+          "bloom":"Spring / Summer",
+          "level":"Easy."
+      
+      },
+      {
+        "id":12 ,
+        "title": "Tomato Cherry Red - Organic Vegetable Seeds",
+        "price": 74,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-tomato-cherry-red-organic-vegetable-seeds-16969381445772_600x600.jpg?v=1634205088",
+        "rating": "5.5",
+        "category":"seed",
+        
+          "info":"If you are already thinking about what you want to grow in your garden this season, start out right with organic seeds. Enjoy your Kitchen Gardening with chemical-free Tomato Cherry Red - Organic Vegetable Seeds.",
+          "common":"Solanum Lycopersicum, Cherry Tomato, Red Cherry.",
+          "height":"Up to 2.13 meter.",
+          "fcolor":"Yellow.",
+          "bloom":"1,2 months after transplanting, if seeds were sown in the month of June-Aug, Nov-Dec the blooming time will be Sep-Oct and Jan-Feb respectively.",
+          "level":"Moderately difficult."
+       
+      },
+      {
+        "id":13 ,
+        "title": "Phyllostachys Nigra, Black Bamboo - Plant",
+        "price": 735,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plants-phyllostachys-nigra-black-bamboo-plant-16969193095308_300x300.png?v=1601350389",
+        "rating": "6.9",
+        "category":"plant",
+        
+          "info":"Phyllostachys are attractive, tall, clump-forming, evergreen bamboos.nigra is a large, elegant evergreen bamboo with arching canes, green at first becoming blackish-brown with maturity, and narrow-lanceolate leaves to 12cm in length.Phyllostachys are attractive, tall, clump-forming, evergreen bamboos with canes grooved on alternate sides between the nodes, and usually two leafy branches at each node.",
+          "common":"Black bamboo.",
+          "height":"23-25 feet",
+          "fcolor":"",
+          "bloom":"",
+          "level":"Easy to grow."
+       
+      },
+      {
+        "id":14,
+        "title": "Tulip Queen of the night (Black) - Bulbs (set of 5)",
+        "price": 459,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-g-tulip-queen-of-the-night-flower-bulbs-719902_600x600.jpg?v=1679751793",
+        "rating": "8.8",
+        "category":"bulb",
+        
+          "info":"Tulip Queen of Night is shinier and blacker than black blooms. This is a tulip hybrid that every collector should have at one point.Tulips flowers are eye-catching blooming in the spring season. You can boost your garden beauty with this gorgeous flowering plant.The tulip is a perennial, bulbous plant with attractive and showy floweâ‚¹ The flowers are usually large, showy and brightly colored, generally red, pink, yellow, or white (usually in warm colors). They often have a different colored blotch at the base of the sepals and petals.",
+          "common":"Tulips",
+          "height":"Up to 2 feet",
+          "fcolor":"Black",
+          "bloom":"Spring",
+          "level":"Easy to grow"
+       
+      },
+      {
+        "id":15 ,
+        "title": "Calla Lily (Pink) - Bulbs (set of 5)",
+        "price": 559,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-g-calla-lily-pink-bulbs-set-of-5-880663_600x600.jpg?v=1679749389",
+        "rating": "4.5",
+        "category":"bulb",
+        
+          "info":"Pick these easy-to-grow varieties for the best blooms. It is a rhizomatous herbaceous perennial plant, evergreen where rainfall and temperatures are adequate.It has large clumps of broad, arrow shaped dark green leaves up to 45 cm long.The inflorescences are large and are produced in spring, summer and autumn, with a pure white spathe up to 25 cm and a yellow spadix. The spadix produces a faint, sweet fragrance.",
+          "common":"Calla lily and arum lily",
+          "height":"Up to 3 feet",
+          "fcolor":"Pink",
+          "bloom":"Spring, summer and autumn",
+          "level":"Easy to grow"
+       
+      },
+      {
+        "id":16 ,
+        "title": "Coriander Imported - Herb Seeds",
+        "price": 89,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-coriander-imported-herb-seeds-16969067036812_600x600.jpg?v=1634203694",
+        "rating": "6.6",
+        "category":"seed",
+        
+          "info":"All parts of the Coriander is used in cooking. 1 packet contains 20gm seeds of Coriander Imported - Seeds.Coriander is a fast-growing, aromatic herb that grows in the cooler weather of spring and fall. Coriander seed is technically a fruit containing two seeds in it.",
+          "common":"Mexican coriander",
+          "height":"16 to 24 inches (40-60cm)",
+          "fcolor":"White",
+          "bloom":"Spring and fall Season",
+          "level":"Easy to grow"
+       
+      },
+      {
+        "id":17,
+        "title": "Areca Palm - Plant",
+        "price": 799,
+        "image": "",
+        "rating": "3.5",
+        "category":"plant",
+        
+          "info":"Areca palm is clump-growing with ringed, yellow leaf-ribs. The foliage is evergreen.The areca palm (Chrysalidocarpus lutescens or Dypsis lutescens), also called the yellow butterfly palm and golden cane palm is one of the easiest palm trees to grow indoo The foliage is evergreen, of Fine texture and yellow-green in colour.Pinnate, 6 to 8 pale green leaves per stem, 80 to 100 leaflets, to 8 feet long (2.4 m). Yellow if grown with enough light, 2 feet long. Yellow male and female flowers on the same inflorescence. This palm tree, with its long, graceful feather-shaped fronds, will add a tropical feel to your home and is especially well suited for screened patios and atriums.",
+          "common":"Golden Cane Palm, Areca Palm, Butterfly Palm, Madagascar Palm",
+          "height":"6 to 8 feet",
+          "fcolor":"Yellow",
+          "bloom":"During late spring or early summer",
+          "level":"Easy to grow"
+       
+      },
+      {
+        "id":18,
+        "title": "Peperomia Magnoliifolia - Succulent Plant",
+        "price": 259,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-peperomia-magnoliifolia-plant_600x600.jpg?v=1634225724",
+        "rating": "5.5",
+        "category":"plant",
+        
+          "info":"Peperomia plants can be pruned anywhere along the stem. New growth develops from the nodes just below the cut in the stem.The palmate pattern of leaf veins is marked out in some species as furrows in the leaves or as coloured lines. Most Peperomias have tiny flowers which are packed into a characteristic greenish or brown conical spike (spadix) like an inverted catkin.",
+          "common":"Peperomia, spoonleaf peperomia",
+          "height":"12 inches",
+          "fcolor":"Yellow to brown",
+          "bloom":"Spring and summer",
+          "level":"Easy to grow"
+       
+      },
+      {
+        "id":19,
+        "title": "Rosemary - Herb Seeds",
+        "price": 75,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-rosemary-herb-seeds-16969117466764_600x600.jpg?v=1634204791",
+        "rating": "3.5",
+        "category":"seed",
+        
+          "info":"Rosmarinus officinalis. 1 packet contains 30 seeds of Rosemary - Seeds.The leaves are evergreen, 2-4 cm long and 2-5 mm broad, green above, and white below, with dense short woolly hair. The plant flowers in spring and summer in temperate climates but the plants can be in constant bloom in warm climates.",
+          "common":"Rosmarinus officinalis (Botanical name)",
+          "height":"3 to 4 feet (90 - 120cm).",
+          "fcolor":"purple or blue",
+          "bloom":"summer",
+          "level":"easy to grow"
+       
+      },
+      {
+        "id": 20,
+        "title": "Miniature Rose, Button Rose (Any Color) - Plant",
+        "price": 259,
+        "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-miniature-rose-button-rose-any-color-plant-1-158202_540x720.jpg?v=1679750627",
+        "rating": "4.5",
+        "category":"plant",
+        
+          "info":"Button Rose is a perennial flowering shrub plant. Roses are best ornamental plants.",
+          "common":"Gulab, mini rose, Rosa, Gulaaf",
+          "height":"Up to 91 centimeter",
+          "fcolor":"Any color",
+          "bloom":"Year-round",
+          "level":"Easy."
+     
+      }
+    ]
+}
